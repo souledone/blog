@@ -5,4 +5,5 @@ This website is for people who want to learn competitive programming and couldn'
 **Credits:** Website design is inspired from [websiteforstudents](https://websiteforstudents.com/).
 
 > Note: U can also find the a2oj practice questions [here](https://learncp.online/a2oj/)
+
 > **This website is under construction.**
