@@ -18,6 +18,15 @@
     padding-bottom: 60px;
 }
 
+.others{
+    color:#b2beb5;
+    font-size: 28px;
+}
+
+a.otherslink:visited, a.otherslink:link{
+    color:#b2beb5;
+}
+
 .content{
     padding-left: 70px;
     padding-right: 14px;
@@ -50,6 +59,14 @@ a:visited, a:link {
 a:hover,a:active {
   color: skyblue;
   background-color: transparent;
+}
+
+a.readmore:visited, a.readmore:link{
+    color:#659ebc;
+    text-decoration:underline;
+}
+a.readmore:hover, a.readmore:active{
+    color:skyblue;
 }
 
 hr {
