@@ -1,0 +1,66 @@
+ body {
+  font-family: system-ui;
+} 
+
+.container {
+  margin: 80px 100px 100px 80px;
+  background: #ffffff;
+/*  border-radius: 3px;*/
+  color: black;
+  box-shadow: 2px 1px 5px 6px #929492;
+  padding: 0px 100px 20px 100px;
+}
+
+.header{
+    padding-top: 20px;
+    padding-left: 20px; 
+    padding-right: 20px;
+    padding-bottom: 60px;
+}
+
+.content{
+    padding-left: 70px;
+    padding-right: 14px;
+}
+
+h1 {
+   font-size: 25px; 
+}
+h2 {
+   font-size: 15px;
+}
+
+img {
+    width: 400px;
+    border-radius: 4px;
+    padding-bottom: 20px;
+}
+
+.calendar {
+    width: 16px;
+    padding-top: 4px;
+}
+
+a:visited, a:link {
+  color: black;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover,a:active {
+  color: skyblue;
+  background-color: transparent;
+}
+
+hr {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: 0;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  color: #1A1A1D;
+}
+
+.footer{
+    margin-top: -40px;
+    text-align:center;
+}
