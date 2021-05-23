@@ -1,83 +1,90 @@
  body {
-  font-family: system-ui;
-} 
+     font-family: system-ui;
+ }
 
-.container {
-  margin: 53px 100px 100px 80px;
-  background: #ffffff;
-/*  border-radius: 3px;*/
-  color: black;
-  box-shadow: 0px 5px 5px 3px #c2c4c3;
-  padding: 0px 100px 20px 100px;
-}
+ .container {
+     margin: 53px 100px 100px 80px;
+     background: #ffffff;
+     /*  border-radius: 3px;*/
+     color: black;
+     box-shadow: 0px 5px 5px 3px #c2c4c3;
+     padding: 0px 100px 20px 100px;
+ }
 
-.header{
-    padding-top: 20px;
-    padding-left: 20px; 
-    padding-right: 20px;
-    padding-bottom: 60px;
-}
+ .header {
+     padding-top: 20px;
+     padding-left: 20px;
+     padding-right: 20px;
+     padding-bottom: 60px;
+ }
 
-.others{
-    color:#b2beb5;
-    font-size: 28px;
-}
+ .others {
+     color: #b2beb5;
+     font-size: 28px;
+ }
 
-a.otherslink:visited, a.otherslink:link{
-    color:#b2beb5;
-}
+ a.otherslink:visited,
+ a.otherslink:link {
+     color: #b2beb5;
+ }
 
-.content{
-    padding-left: 70px;
-    padding-right: 14px;
-}
+ .content {
+     padding-left: 70px;
+     padding-right: 14px;
+ }
 
-h1 {
-   font-size: 25px; 
-}
-h2 {
-   font-size: 15px;
-}
+ h1 {
+     font-size: 25px;
+ }
 
-img {
-    width: 400px;
-    border-radius: 4px;
-    padding-bottom: 20px;
-}
+ h2 {
+     font-size: 15px;
+ }
 
-.calendar {
-    width: 16px;
-    padding-top: 4px;
-}
+ img {
+     width: 400px;
+     border-radius: 4px;
+     padding-bottom: 20px;
+ }
 
-a:visited, a:link {
-  color: black;
-  background-color: transparent;
-  text-decoration: none;
-}
+ .calendar {
+     width: 16px;
+     padding-top: 4px;
+ }
 
-a:hover,a:active {
-  color: skyblue;
-  background-color: transparent;
-}
+ a:visited,
+ a:link {
+     color: black;
+     background-color: transparent;
+     text-decoration: none;
+ }
 
-a.readmore:visited, a.readmore:link{
-    color:#659ebc;
-    text-decoration:underline;
-}
-a.readmore:hover, a.readmore:active{
-    color:skyblue;
-}
+ a:hover,
+ a:active {
+     color: skyblue;
+     background-color: transparent;
+ }
 
-hr {
-  margin-top: 20px;
-  margin-bottom: 30px;
-  border: 0;
-  border-top: 1px solid rgba(0, 0, 0, 0.1);
-  color: #1A1A1D;
-}
+ a.readmore:visited,
+ a.readmore:link {
+     color: #659ebc;
+     text-decoration: underline;
+ }
 
-.footer{
-    margin-top: -40px;
-    text-align:center;
-}
+ a.readmore:hover,
+ a.readmore:active {
+     color: skyblue;
+ }
+
+ hr {
+     margin-top: 20px;
+     margin-bottom: 30px;
+     border: 0;
+     border-top: 1px solid rgba(0, 0, 0, 0.1);
+     color: #1A1A1D;
+ }
+
+ .footer {
+     margin-top: -40px;
+     text-align: center;
+ }

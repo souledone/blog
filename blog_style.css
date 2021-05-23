@@ -1,25 +1,25 @@
-.user{
-    width:16px;
+.user {
+    width: 16px;
     padding-top: 4px;
     display: inline-block;
     vertical-align: middle;
 }
 
-.calendar{
+.calendar {
     display: inline-block;
     vertical-align: middle;
 }
 
-span{
+span {
     margin-bottom: -4px;
 }
 
-.blog_image{
-    width:700px;
+.blog_image {
+    width: 700px;
 }
 
 .code {
-    font-family: Consolas,"courier new";
+    font-family: Consolas, "courier new";
     color: black;
     background-color: #edf2f7;
     padding: 15px;
