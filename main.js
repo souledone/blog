@@ -1,1 +1,1 @@
-window.location.replace("https://learncp.online/a2oj/");
+//window.location.replace("https://learncp.online/a2oj/");
